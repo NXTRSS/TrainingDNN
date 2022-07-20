@@ -88,4 +88,12 @@ jupyter notebook
 ```
 Po aktywacji powyższej komendy otworzy się przeglądarka a w niej nasze pliki.\
 **Ważne: w narzędziu Jupyter Notebook do uruchamiania przygotowanych skryptów trzeba będzie "wyklikać" kernel *Python (ml)* - będzie to pokazane na zajęciach.**\
-Do działania plików niezbędne będą również zbiory danych - umieszczone na dysku Google
+
+## Zadanie Dodatkowe - własny proces uczenia regresji logistycznej
+Bardzo gorąco polecam wykonanie zadania dodatkowego - polega ono na zaimplementowaniu od podstaw procesu uczenia regresji logistycznej, 
+która jest niejako podstawowym bloczkiem sieci neuronowej (jeśli używalibyśmy sigmoidy jako funkcji aktywacji). Zrozumienie procesu 
+Forward pass, Backward pass, Weigh update jest naprawdę bardzo pomocne dla zrozumienia jak sieć neuronowa się uczy.
+
+Dodatkowo notebook został tak skonfigurowany, że jest samosprawdzalny, proszę powoli przejść po wszystkich krokach i sprawdzać za każdym razem odpowiedzi.
+Do działania kodu potrzeba ściągnąć dane, link podany w notebook'u (można wykorzystać albo duży plik albo mniejszy zawierający w nazwie _minimal).
+Aby odczytać dane potrzebne jest hasło, które będzie podane na zajęciach - **jeśli ktoś wyrazi chęć wykonywania tego zadania koniecznie proszę o informację**
