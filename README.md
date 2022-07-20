@@ -5,7 +5,7 @@ Poniżej przedstawiam instrukcję niezbędnych kroków do wykonania przed zajęc
 
 ## Wymagania sprzętowe
 
-Wirtualna Maszyna z Ubuntu 20.04, **RAM** minimum 5918MB najlepiej 8192MB, pamięć 30GB dla wygody 40GB
+ **RAM** minimum 5918MB najlepiej 8192MB, pamięć 30GB dla wygody 40GB
 
 ## Zainstalowanie Minicondy
 Pomoże nam ona w zarządzaniu środowiskami pythonowymi oraz w ściaganiu niezbędnych paczek (np. Tensor Flow)
